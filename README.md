@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá Mundo!
 
-<!--
-**renansouzzzz/renansouzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui se aloca alguns projetos e atividades elaboradas em minha faculdade ou mesmo home work.
 
-Here are some ideas to get you started:
+Espero que gostem e incentive algum programador iniciante (como eu).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzzzz)](https://github.com/renansouzzzz/github-readme-stats)
+
+
+### Contatos:
+
+<div>
+  <a href="https://www.linkedin.com/in/renansouzadeoliveira/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"              width="40" height="40"></a>  
+</div>
