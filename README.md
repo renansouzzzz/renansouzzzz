@@ -1,6 +1,6 @@
 ## Olá Mundo!
 
-Renan, 22 anos de idade.
+Renan, 22 anos de idade. <br>
 Amante da programação e programador há 1 ano e meio.
 Ultra ciclista e viajante pelo mundo!
 
