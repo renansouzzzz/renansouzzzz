@@ -1,8 +1,8 @@
 ## Hi!
 
- Renan, 22 years old.
- Love programming; 
- Ultra ciclyst 🤘.
+ Renan, 22 years old. <br>
+ Love programming; <br>
+ Ultra ciclyst 🤘. <br>
 
 
 # Languages used: <br>
