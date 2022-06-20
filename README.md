@@ -2,6 +2,9 @@
 
 ### Renan - 22 years old - ultra ciclyst <br> <br>
 
+Serão alocado alguns projetos pessoais que crio por hobby neste GitHub. Já trabalhei com GitLab, porém só em caso de projeto empresarial. <br>
+Espero que gostem! :)
+
 
 # Languages used here: <br>
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzzzz)](https://github.com/renansouzzzz/github-readme-stats) 
