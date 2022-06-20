@@ -1,11 +1,9 @@
 ## Hi!
 
- Renan, 22 years old. <br>
- Love programming; <br>
- Ultra ciclyst 🤘. <br>
+### Renan - 22 years old - ultra ciclyst
 
 
-# Languages used: <br>
+# Languages used here: <br>
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansouzzzz)](https://github.com/renansouzzzz/github-readme-stats) 
 
 <br>
