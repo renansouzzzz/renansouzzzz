@@ -2,7 +2,7 @@
 
 ### Renan - 22 years old - ultra ciclyst <br> <br>
 
-Serão alocados alguns projetos pessoais que crio por hobby neste GitHub. Já trabalhei com GitLab, porém só em caso de projeto empresarial. <br>
+Serão alocados alguns projetos pessoais que crio por hobby neste GitHub. Caso queiram entrar em contato comigo, meu contato está no final desse README. Obrigado! <br>
 Espero que gostem! :)
 
 
