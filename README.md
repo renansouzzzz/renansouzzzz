@@ -7,12 +7,16 @@
 <hr>    
 
 
+<br>
+<br>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/renansouzadeoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/linked-in-alt.svg" alt="renansouzzzz" height="30" width="40" /></a>   
 <a href="https://instagram.com/renansouzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="renansouzzzz" height="30" width="40" /></a>
 </p>
+<br>
+<br>
 
 <h3 align="left">Idiomas e Ferramentas:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
