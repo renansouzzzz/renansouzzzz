@@ -1,7 +1,7 @@
 <h1 align="center">Olá, pessoal! Me chamo Renan!</h1><br>
 
 
-- 🌱 No momento estudo: **Python + Flask, dentre tecnologias como SQL, Scrum e outras tecnologias.**
+- 🌱 No momento estudo: **Python + Flask, dentre tecnologias como SQL, Azure Machine Learning entre outras.**
 
 - 📫 E-mail : **renansouza.oliv@outlook.com** 
 <hr>    
