@@ -34,5 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renansouzzzz&show_icons=true&locale=en&layout=compact" alt="renansouzzzz" /> </p>
 <br>
+<br>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=renansouzzzz&show_icons=true&locale=en" alt="renansouzzzz" /> </p>
 
