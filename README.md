@@ -10,14 +10,11 @@
 <br>
 <br>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-
 ## 🔗 Links:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renansouzadeoliveira/)
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renansouzzzz.github.io/)
 
-</p>
+
 <br>
 <br>
 
