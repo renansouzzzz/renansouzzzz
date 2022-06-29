@@ -1,4 +1,4 @@
-<h1 align="center">Renan de Oliveira</h1><br>
+<h1 align="center">Olá!</h1><br>
 
 
 - 🌱 No momento estudo: **Python + Flask, dentre tecnologias como SQL, Azure Machine Learning entre outras.**
