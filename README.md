@@ -18,8 +18,4 @@
 <a href="https://www.python.org" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height ="40"/> </a> 
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renansouzzzz&show_icons=true&locale=en&layout=compact" alt="renansouzzzz" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=renansouzzzz&show_icons=true&locale=en" alt="renansouzzzz" /> </p>
-
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=renansouzzzz&theme=dark&show_icons=true)
