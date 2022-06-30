@@ -1,5 +1,3 @@
-
-## 🔗 Links:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renansouzadeoliveira/)
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renansouzzzz.github.io/)
 <a href = "mailto:renansouza.oliv@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
